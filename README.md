@@ -85,3 +85,8 @@ Intermediate values calculated from the other VarSets. All of them are expressio
 | `ScrewHeadHoleHeight` | 4 mm | `min(LidThickness − 1 mm, 4 mm)` | Screw-head counterbore depth in the lid (`ScrewHeadHoles`) |
 
 Both `NutHeight` and `ScrewHeadHoleHeight` keep at least 1 mm of material under the recess. They are capped at 4 mm.
+
+
+## Printed
+
+![printed model](./images/printed%20model.jpg)
